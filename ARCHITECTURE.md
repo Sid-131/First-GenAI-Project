@@ -28,7 +28,7 @@ This service allows users to discover restaurants that match their preferences (
 ## 🗂️ Project Folder Structure
 
 ```
-First-GenAI-Porject/
+First-GenAI-Project/
 │
 ├── ARCHITECTURE.md          ← This document
 │
@@ -297,4 +297,4 @@ HF_DATASET=ManikaSaini/zomato-restaurant-recommendation
 
 ---
 
-*Architecture designed for the `First-GenAI-Porject` workspace. Implementation begins in the next phase.*
+*Architecture designed for the `First-GenAI-Project` workspace. Implementation begins in the next phase.*
